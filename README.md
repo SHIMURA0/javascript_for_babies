@@ -1,2 +1,3 @@
-# javascript_for_babies
-Learning javascript from scratch
+Learning Javascript from scratch and dive into deep
+
+created at 2025-07-21
